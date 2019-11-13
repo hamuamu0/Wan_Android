@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/icon_love"
+        android:icon="@drawable/ic_favorite_gray_24dp"
+        android:title="喜欢的文章"
+        android:background="#ffffff"/>
+
+    <item android:id="@+id/icon_about"
+        android:icon="@drawable/ic_about_us_gray_24dp"
+        android:title="关于我们"
+        android:background="#ffffff"/>
+
+    <item android:id="@+id/icon_exit"
+        android:icon="@drawable/ic_exit_to_app_gray_24dp"
+        android:title="退出登录"
+        android:background="#ffffff"/>
+
+</menu>
